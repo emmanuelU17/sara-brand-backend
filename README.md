@@ -1,5 +1,6 @@
 # Sara Brand Server
-Server side code for Sara The Brand e-commerce.
+Server side code for Sara The Brand e-commerce. This branch is the development process of using session for
+authentication and authorization. It won't be managed until business needs dictates.
 
 ### Technologies Thus Far
 * Java 17
